@@ -102,7 +102,7 @@ if "post_data" in st.session_state:
             followers_val = st.number_input(
                 "Followers (Auto-fetch profil dibatasi IG, ketik estimasi):",
                 min_value=1,
-                value=8400000,
+                value=5966946,
                 step=50000
             )
 
